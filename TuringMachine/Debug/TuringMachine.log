@@ -1,0 +1,24 @@
+﻿  Parcer.cpp
+C:\Repos\TuringMachineSimulator\TuringMachine\Parcer.cpp(18,20): warning C4018: '<': signed/unsigned mismatch
+C:\Repos\TuringMachineSimulator\TuringMachine\Parcer.cpp(34,35): warning C4018: '<=': signed/unsigned mismatch
+C:\Repos\TuringMachineSimulator\TuringMachine\Parcer.cpp(60,20): warning C4018: '<': signed/unsigned mismatch
+C:\Repos\TuringMachineSimulator\TuringMachine\Parcer.cpp(104,20): warning C4018: '<': signed/unsigned mismatch
+C:\Repos\TuringMachineSimulator\TuringMachine\Parcer.cpp(126,12): warning C4018: '<': signed/unsigned mismatch
+C:\Repos\TuringMachineSimulator\TuringMachine\Parcer.cpp(168,20): warning C4018: '<': signed/unsigned mismatch
+C:\Repos\TuringMachineSimulator\TuringMachine\Parcer.cpp(189,20): warning C4018: '<': signed/unsigned mismatch
+C:\Repos\TuringMachineSimulator\TuringMachine\Parcer.cpp(214,22): warning C4018: '<': signed/unsigned mismatch
+C:\Repos\TuringMachineSimulator\TuringMachine\Parcer.cpp(222,22): warning C4018: '<': signed/unsigned mismatch
+C:\Repos\TuringMachineSimulator\TuringMachine\Parcer.cpp(245,22): warning C4018: '<': signed/unsigned mismatch
+C:\Repos\TuringMachineSimulator\TuringMachine\Parcer.cpp(255,22): warning C4018: '<': signed/unsigned mismatch
+C:\Repos\TuringMachineSimulator\TuringMachine\Parcer.cpp(325,20): warning C4018: '<': signed/unsigned mismatch
+C:\Repos\TuringMachineSimulator\TuringMachine\Parcer.cpp(357,20): warning C4018: '<': signed/unsigned mismatch
+C:\Repos\TuringMachineSimulator\TuringMachine\Parcer.cpp(419,20): warning C4018: '<': signed/unsigned mismatch
+C:\Repos\TuringMachineSimulator\TuringMachine\Parcer.cpp(480,20): warning C4018: '<': signed/unsigned mismatch
+C:\Repos\TuringMachineSimulator\TuringMachine\Parcer.cpp(482,21): warning C4018: '<': signed/unsigned mismatch
+C:\Repos\TuringMachineSimulator\TuringMachine\Parcer.cpp(504,20): warning C4018: '<': signed/unsigned mismatch
+  TTM.cpp
+C:\Repos\TuringMachineSimulator\TuringMachine\TTM.cpp(124,11): warning C4305: 'return': truncation from 'int' to 'bool'
+C:\Repos\TuringMachineSimulator\TuringMachine\TTM.cpp(149,21): warning C4018: '<': signed/unsigned mismatch
+  TuringDriver.cpp
+  Generating Code...
+  TuringMachine.vcxproj -> C:\Repos\TuringMachineSimulator\TuringMachine\Debug\TuringMachine.exe
